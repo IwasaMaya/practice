@@ -1,3 +1,4 @@
 Hello,world!
 
 What are you doing?
+print("ランキング")
